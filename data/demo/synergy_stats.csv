@@ -1,0 +1,113 @@
+name,ally,role,ally_role,patch,rank,region,wins,games
+Ahri,Lux,Mid,Support,DEMO,DEMO,DEMO,24,50
+Ahri,Leona,Mid,Support,DEMO,DEMO,DEMO,25,50
+Ahri,Garen,Mid,Top,DEMO,DEMO,DEMO,26,50
+Ahri,Darius,Mid,Top,DEMO,DEMO,DEMO,27,50
+Ahri,Lee Sin,Mid,Jungle,DEMO,DEMO,DEMO,20,50
+Ahri,Amumu,Mid,Jungle,DEMO,DEMO,DEMO,21,50
+Ahri,Jinx,Mid,ADC,DEMO,DEMO,DEMO,22,50
+Ahri,Ashe,Mid,ADC,DEMO,DEMO,DEMO,23,50
+Akali,Lux,Mid,Support,DEMO,DEMO,DEMO,25,50
+Akali,Leona,Mid,Support,DEMO,DEMO,DEMO,26,50
+Akali,Garen,Mid,Top,DEMO,DEMO,DEMO,27,50
+Akali,Darius,Mid,Top,DEMO,DEMO,DEMO,20,50
+Akali,Lee Sin,Mid,Jungle,DEMO,DEMO,DEMO,21,50
+Akali,Amumu,Mid,Jungle,DEMO,DEMO,DEMO,22,50
+Akali,Jinx,Mid,ADC,DEMO,DEMO,DEMO,23,50
+Akali,Ashe,Mid,ADC,DEMO,DEMO,DEMO,24,50
+Annie,Lux,Mid,Support,DEMO,DEMO,DEMO,26,50
+Annie,Leona,Mid,Support,DEMO,DEMO,DEMO,27,50
+Annie,Garen,Mid,Top,DEMO,DEMO,DEMO,20,50
+Annie,Darius,Mid,Top,DEMO,DEMO,DEMO,21,50
+Annie,Lee Sin,Mid,Jungle,DEMO,DEMO,DEMO,22,50
+Annie,Amumu,Mid,Jungle,DEMO,DEMO,DEMO,23,50
+Annie,Jinx,Mid,ADC,DEMO,DEMO,DEMO,24,50
+Annie,Ashe,Mid,ADC,DEMO,DEMO,DEMO,25,50
+Orianna,Lux,Mid,Support,DEMO,DEMO,DEMO,27,50
+Orianna,Leona,Mid,Support,DEMO,DEMO,DEMO,20,50
+Orianna,Garen,Mid,Top,DEMO,DEMO,DEMO,21,50
+Orianna,Darius,Mid,Top,DEMO,DEMO,DEMO,22,50
+Orianna,Lee Sin,Mid,Jungle,DEMO,DEMO,DEMO,23,50
+Orianna,Amumu,Mid,Jungle,DEMO,DEMO,DEMO,24,50
+Orianna,Jinx,Mid,ADC,DEMO,DEMO,DEMO,25,50
+Orianna,Ashe,Mid,ADC,DEMO,DEMO,DEMO,26,50
+Lux,Ahri,Support,Mid,DEMO,DEMO,DEMO,24,50
+Lux,Akali,Support,Mid,DEMO,DEMO,DEMO,25,50
+Lux,Annie,Support,Mid,DEMO,DEMO,DEMO,26,50
+Lux,Orianna,Support,Mid,DEMO,DEMO,DEMO,27,50
+Lux,Garen,Support,Top,DEMO,DEMO,DEMO,22,50
+Lux,Darius,Support,Top,DEMO,DEMO,DEMO,23,50
+Lux,Lee Sin,Support,Jungle,DEMO,DEMO,DEMO,24,50
+Lux,Amumu,Support,Jungle,DEMO,DEMO,DEMO,25,50
+Lux,Jinx,Support,ADC,DEMO,DEMO,DEMO,26,50
+Lux,Ashe,Support,ADC,DEMO,DEMO,DEMO,27,50
+Leona,Ahri,Support,Mid,DEMO,DEMO,DEMO,25,50
+Leona,Akali,Support,Mid,DEMO,DEMO,DEMO,26,50
+Leona,Annie,Support,Mid,DEMO,DEMO,DEMO,27,50
+Leona,Orianna,Support,Mid,DEMO,DEMO,DEMO,20,50
+Leona,Garen,Support,Top,DEMO,DEMO,DEMO,23,50
+Leona,Darius,Support,Top,DEMO,DEMO,DEMO,24,50
+Leona,Lee Sin,Support,Jungle,DEMO,DEMO,DEMO,25,50
+Leona,Amumu,Support,Jungle,DEMO,DEMO,DEMO,26,50
+Leona,Jinx,Support,ADC,DEMO,DEMO,DEMO,27,50
+Leona,Ashe,Support,ADC,DEMO,DEMO,DEMO,20,50
+Garen,Ahri,Top,Mid,DEMO,DEMO,DEMO,26,50
+Garen,Akali,Top,Mid,DEMO,DEMO,DEMO,27,50
+Garen,Annie,Top,Mid,DEMO,DEMO,DEMO,20,50
+Garen,Orianna,Top,Mid,DEMO,DEMO,DEMO,21,50
+Garen,Lux,Top,Support,DEMO,DEMO,DEMO,22,50
+Garen,Leona,Top,Support,DEMO,DEMO,DEMO,23,50
+Garen,Lee Sin,Top,Jungle,DEMO,DEMO,DEMO,26,50
+Garen,Amumu,Top,Jungle,DEMO,DEMO,DEMO,27,50
+Garen,Jinx,Top,ADC,DEMO,DEMO,DEMO,20,50
+Garen,Ashe,Top,ADC,DEMO,DEMO,DEMO,21,50
+Darius,Ahri,Top,Mid,DEMO,DEMO,DEMO,27,50
+Darius,Akali,Top,Mid,DEMO,DEMO,DEMO,20,50
+Darius,Annie,Top,Mid,DEMO,DEMO,DEMO,21,50
+Darius,Orianna,Top,Mid,DEMO,DEMO,DEMO,22,50
+Darius,Lux,Top,Support,DEMO,DEMO,DEMO,23,50
+Darius,Leona,Top,Support,DEMO,DEMO,DEMO,24,50
+Darius,Lee Sin,Top,Jungle,DEMO,DEMO,DEMO,27,50
+Darius,Amumu,Top,Jungle,DEMO,DEMO,DEMO,20,50
+Darius,Jinx,Top,ADC,DEMO,DEMO,DEMO,21,50
+Darius,Ashe,Top,ADC,DEMO,DEMO,DEMO,22,50
+Lee Sin,Ahri,Jungle,Mid,DEMO,DEMO,DEMO,20,50
+Lee Sin,Akali,Jungle,Mid,DEMO,DEMO,DEMO,21,50
+Lee Sin,Annie,Jungle,Mid,DEMO,DEMO,DEMO,22,50
+Lee Sin,Orianna,Jungle,Mid,DEMO,DEMO,DEMO,23,50
+Lee Sin,Lux,Jungle,Support,DEMO,DEMO,DEMO,24,50
+Lee Sin,Leona,Jungle,Support,DEMO,DEMO,DEMO,25,50
+Lee Sin,Garen,Jungle,Top,DEMO,DEMO,DEMO,26,50
+Lee Sin,Darius,Jungle,Top,DEMO,DEMO,DEMO,27,50
+Lee Sin,Jinx,Jungle,ADC,DEMO,DEMO,DEMO,22,50
+Lee Sin,Ashe,Jungle,ADC,DEMO,DEMO,DEMO,23,50
+Amumu,Ahri,Jungle,Mid,DEMO,DEMO,DEMO,21,50
+Amumu,Akali,Jungle,Mid,DEMO,DEMO,DEMO,22,50
+Amumu,Annie,Jungle,Mid,DEMO,DEMO,DEMO,23,50
+Amumu,Orianna,Jungle,Mid,DEMO,DEMO,DEMO,24,50
+Amumu,Lux,Jungle,Support,DEMO,DEMO,DEMO,25,50
+Amumu,Leona,Jungle,Support,DEMO,DEMO,DEMO,26,50
+Amumu,Garen,Jungle,Top,DEMO,DEMO,DEMO,27,50
+Amumu,Darius,Jungle,Top,DEMO,DEMO,DEMO,20,50
+Amumu,Jinx,Jungle,ADC,DEMO,DEMO,DEMO,23,50
+Amumu,Ashe,Jungle,ADC,DEMO,DEMO,DEMO,24,50
+Jinx,Ahri,ADC,Mid,DEMO,DEMO,DEMO,22,50
+Jinx,Akali,ADC,Mid,DEMO,DEMO,DEMO,23,50
+Jinx,Annie,ADC,Mid,DEMO,DEMO,DEMO,24,50
+Jinx,Orianna,ADC,Mid,DEMO,DEMO,DEMO,25,50
+Jinx,Lux,ADC,Support,DEMO,DEMO,DEMO,26,50
+Jinx,Leona,ADC,Support,DEMO,DEMO,DEMO,27,50
+Jinx,Garen,ADC,Top,DEMO,DEMO,DEMO,20,50
+Jinx,Darius,ADC,Top,DEMO,DEMO,DEMO,21,50
+Jinx,Lee Sin,ADC,Jungle,DEMO,DEMO,DEMO,22,50
+Jinx,Amumu,ADC,Jungle,DEMO,DEMO,DEMO,23,50
+Ashe,Ahri,ADC,Mid,DEMO,DEMO,DEMO,23,50
+Ashe,Akali,ADC,Mid,DEMO,DEMO,DEMO,24,50
+Ashe,Annie,ADC,Mid,DEMO,DEMO,DEMO,25,50
+Ashe,Orianna,ADC,Mid,DEMO,DEMO,DEMO,26,50
+Ashe,Lux,ADC,Support,DEMO,DEMO,DEMO,27,50
+Ashe,Leona,ADC,Support,DEMO,DEMO,DEMO,20,50
+Ashe,Garen,ADC,Top,DEMO,DEMO,DEMO,21,50
+Ashe,Darius,ADC,Top,DEMO,DEMO,DEMO,22,50
+Ashe,Lee Sin,ADC,Jungle,DEMO,DEMO,DEMO,23,50
+Ashe,Amumu,ADC,Jungle,DEMO,DEMO,DEMO,24,50

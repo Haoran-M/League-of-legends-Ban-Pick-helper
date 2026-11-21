@@ -1,0 +1,2979 @@
+{
+  "metadata": {
+    "source": "DEMO: synthetic workflow fixture",
+    "license": "CC0-1.0 (synthetic example)",
+    "patch": "DEMO",
+    "is_demo": true,
+    "notes": "DEMO ONLY. All counts are synthetic; never treat them as historical results."
+  },
+  "champions": [
+    {
+      "name": "Ahri",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Akali",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Annie",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Orianna",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Lux",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Leona",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Garen",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Darius",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Lee Sin",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Amumu",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Jinx",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    },
+    {
+      "name": "Ashe",
+      "class": "DEMO",
+      "damage_profile": "Unknown",
+      "attributes": {
+        "frontline": 0.5,
+        "engage": 0.5,
+        "utility": 0.5
+      }
+    }
+  ],
+  "champion_roles": [
+    {
+      "name": "Ahri",
+      "role": "Mid"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support"
+    },
+    {
+      "name": "Leona",
+      "role": "Support"
+    },
+    {
+      "name": "Garen",
+      "role": "Top"
+    },
+    {
+      "name": "Darius",
+      "role": "Top"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC"
+    }
+  ],
+  "champion_stats": [
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 100,
+      "games": 200
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 101,
+      "games": 200
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 102,
+      "games": 200
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 103,
+      "games": 200
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 104,
+      "games": 200
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 105,
+      "games": 200
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 106,
+      "games": 200
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 107,
+      "games": 200
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 108,
+      "games": 200
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 109,
+      "games": 200
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 110,
+      "games": 200
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 111,
+      "games": 200
+    }
+  ],
+  "matchup_stats": [
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Ashe",
+      "opponent_role": "ADC"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Ahri",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Akali",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Annie",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "opponent": "Orianna",
+      "opponent_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "opponent": "Lux",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "opponent": "Leona",
+      "opponent_role": "Support"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "opponent": "Garen",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "opponent": "Darius",
+      "opponent_role": "Top"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "opponent": "Lee Sin",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "opponent": "Amumu",
+      "opponent_role": "Jungle"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "opponent": "Jinx",
+      "opponent_role": "ADC"
+    }
+  ],
+  "synergy_stats": [
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Ahri",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Akali",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Annie",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Orianna",
+      "role": "Mid",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Lux",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Leona",
+      "role": "Support",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Garen",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Darius",
+      "role": "Top",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Lee Sin",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Jinx",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Amumu",
+      "role": "Jungle",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Ashe",
+      "ally_role": "ADC"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Jinx",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Ahri",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Akali",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 25,
+      "games": 50,
+      "ally": "Annie",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 26,
+      "games": 50,
+      "ally": "Orianna",
+      "ally_role": "Mid"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 27,
+      "games": 50,
+      "ally": "Lux",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 20,
+      "games": 50,
+      "ally": "Leona",
+      "ally_role": "Support"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 21,
+      "games": 50,
+      "ally": "Garen",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 22,
+      "games": 50,
+      "ally": "Darius",
+      "ally_role": "Top"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 23,
+      "games": 50,
+      "ally": "Lee Sin",
+      "ally_role": "Jungle"
+    },
+    {
+      "name": "Ashe",
+      "role": "ADC",
+      "patch": "DEMO",
+      "rank": "DEMO",
+      "region": "DEMO",
+      "wins": 24,
+      "games": 50,
+      "ally": "Amumu",
+      "ally_role": "Jungle"
+    }
+  ]
+}

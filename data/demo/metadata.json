@@ -1,0 +1,7 @@
+{
+  "source": "DEMO: synthetic workflow fixture",
+  "license": "CC0-1.0 (synthetic example)",
+  "patch": "DEMO",
+  "is_demo": true,
+  "notes": "DEMO ONLY. All counts are synthetic; never treat them as historical results."
+}

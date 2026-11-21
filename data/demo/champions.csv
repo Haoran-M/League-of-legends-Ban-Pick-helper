@@ -1,0 +1,13 @@
+name,class,damage_profile,attributes
+Ahri,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Akali,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Annie,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Orianna,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Lux,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Leona,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Garen,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Darius,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Lee Sin,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Amumu,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Jinx,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"
+Ashe,DEMO,Unknown,"{""frontline"": 0.5, ""engage"": 0.5, ""utility"": 0.5}"

@@ -1,0 +1,53 @@
+{
+  "source": "https://chaincc.lol/data/chaincc-players-2026.csv.gz",
+  "license_page": "https://chaincc.lol/free/data",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_sha256": "a79b5434e047311b235d04fd5d38b2bb087f575b59349d62ae6b2c49336d586c",
+  "input_player_rows": 99430,
+  "input_complete_games": 9943,
+  "patches": {
+    "16.17": {
+      "complete_games": 797,
+      "player_rows": 7970,
+      "from": "2026-08-27 13:13:06",
+      "through": "2026-10-13 00:26:18",
+      "dataset_id": "18df321f39a7abbda27b56d6",
+      "baseline_rows": 2828,
+      "matchup_rows": 45058,
+      "synergy_rows": 35458
+    },
+    "16.18": {
+      "complete_games": 571,
+      "player_rows": 5710,
+      "from": "2026-09-19 05:06:16",
+      "through": "2026-10-17 11:38:16",
+      "dataset_id": "1211fdaf25f19bc8a682f8ac",
+      "baseline_rows": 1089,
+      "matchup_rows": 25162,
+      "synergy_rows": 19780
+    },
+    "16.20": {
+      "complete_games": 316,
+      "player_rows": 3160,
+      "from": "2026-10-09 16:06:57",
+      "through": "2026-11-19 18:07:11",
+      "dataset_id": "4b816634afee3b10c5d7edac",
+      "baseline_rows": 765,
+      "matchup_rows": 16570,
+      "synergy_rows": 13168
+    },
+    "16.22": {
+      "complete_games": 32,
+      "player_rows": 320,
+      "from": "2026-11-06 16:31:00",
+      "through": "2026-11-15 17:16:39",
+      "dataset_id": "51062567e6f1467cddc554ec",
+      "baseline_rows": 248,
+      "matchup_rows": 2904,
+      "synergy_rows": 2260
+    }
+  },
+  "changes": "Selected patches; canonicalized names/roles; aggregated wins/games; removed all player, team and match identifiers.",
+  "attribution": "ChainCC. League of Legends esports match dataset. https://chaincc.lol/free/data (accessed 2026-11-21)."
+}

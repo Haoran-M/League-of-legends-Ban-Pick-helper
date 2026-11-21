@@ -1,0 +1,24 @@
+{
+  "jdk": {
+    "version": "21.0.13.1+2",
+    "directory": "jdk-21.0.13.1+2",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jdk_x64_windows_hotspot_21.0.13.1_2.zip",
+    "sha256": "bbebea1469996b276683c9299c227b294f85c847039c82633218186a4ad4fbf2"
+  },
+  "gradle": {
+    "version": "8.11.1",
+    "url": "https://services.gradle.org/distributions/gradle-8.11.1-bin.zip",
+    "sha256": "f397b287023acdba1e9f6fc5ea72d22dd63669d59ed4a289a29b1a76eee151c6"
+  },
+  "android_command_line": {
+    "version": "15859902",
+    "url": "https://dl.google.com/android/repository/commandlinetools-win-15859902_latest.zip",
+    "sha256": "90ae805d20434428bffcb699c290860f19bb5f66a67e6b330067e3de801fb04a"
+  },
+  "compile_sdk": 35,
+  "build_tools": "35.0.0",
+  "android_gradle_plugin": "8.9.2",
+  "chaquopy": "17.2.0",
+  "python": "3.12",
+  "minimum_android_api": 26
+}
