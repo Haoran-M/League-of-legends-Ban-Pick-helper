@@ -42,12 +42,12 @@ Screenshots show the current professional-data build, not the planned average-pl
 
 ## Install a build
 
-Downloadable builds, when published, belong on the [Releases page](https://github.com/Haoran-M/League-of-legends-Ban-Pick-helper/releases). Generated binaries are excluded from source control; a source ZIP is not an installable app.
+Download the [v0.6.0 preview release](https://github.com/Haoran-M/League-of-legends-Ban-Pick-helper/releases/tag/v0.6.0-preview), including the Android APK, Windows builds, checksums and notices. These are the existing professional-data preview builds. Generated binaries are excluded from source control; a source ZIP is not an installable app.
 
 | Platform | Build artifact | Requirements |
 | --- | --- | --- |
-| Windows | `LeagueDraftAssistant.exe` or `LeagueDraftAssistant-portable.zip` | Windows 10/11 x64; no separate Python needed |
-| Android | `LeagueDraftAssistant.apk` | Android 8.0+; 64-bit ARM64 or x86_64; Python bundled |
+| Windows | [EXE](https://github.com/Haoran-M/League-of-legends-Ban-Pick-helper/releases/download/v0.6.0-preview/LeagueDraftAssistant.exe) or [portable ZIP](https://github.com/Haoran-M/League-of-legends-Ban-Pick-helper/releases/download/v0.6.0-preview/LeagueDraftAssistant-portable.zip) | Windows 10/11 x64; no separate Python needed |
+| Android | [APK](https://github.com/Haoran-M/League-of-legends-Ban-Pick-helper/releases/download/v0.6.0-preview/LeagueDraftAssistant.apk) | Android 8.0+; 64-bit ARM64 or x86_64; Python bundled |
 
 Extract the entire Windows portable ZIP and keep `_internal` beside the EXE. Windows builds are unsigned. The current APK is release-mode, signed with a **local development certificate**, not a Play Store release. Retaining that private key is necessary for compatible updates. See [Android build and signing notes](android/README.md).
 
